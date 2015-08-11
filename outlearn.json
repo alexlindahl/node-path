@@ -20,6 +20,7 @@
         {"page" : "./pages/tips-and-tricks.md"},
         {"module" : "FaisalAbid/node-js-padawan"},
         {"module" : "aleksandarolic/npm"},
+        {"module" : "node-project-fix-sample"},
         {"module" : "node-post-assessment"},
         {"module" : "node-resources"},
         {"page" : "./pages/live-long.md"}
