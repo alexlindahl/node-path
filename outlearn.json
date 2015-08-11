@@ -9,7 +9,7 @@
       "privacy" : "public",
       "socialBar" : true,
       "coverImage" : "https://raw.githubusercontent.com/sigma512/node-path/master/assets/gephi-map.jpg",
-      "collaborationChannel" : "https://gitter.im/sigma512/team1",
+      "collaborationChannel" : "https://outlearn.slack.com/messages/team1/",
       "coverColor" : "#5b8f1c",
       "pages" : [
         {"page" : "./pages/welcome.md"},
