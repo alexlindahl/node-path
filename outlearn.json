@@ -14,13 +14,17 @@
       "pages" : [
         {"page" : "./pages/welcome.md"},
         {"module" : "node-pre-assessment"},
-        {"module" : "mozilla-developer-network/re-introduction"},
+        {"module" : "mozilla-developer-network/re-introduction"
+         "preface" : "We're including this here for those of you who are expert programmers but who are new to JavaScript as a serious development language. If you are a JS pro, feel free to skip it."},
         {"module" : "node-video"},
-        {"module" : "marijnhaverbeke/eloquent-node"},
+        {"module" : "marijnhaverbeke/eloquent-node"
+         "preface" : "This is just the 20th chapter of Marijn's excellent book. Walk through this step by step."},
         {"page" : "./pages/tips-and-tricks.md"},
-        {"module" : "FaisalAbid/node-js-padawan"},
+        {"module" : "FaisalAbid/node-js-padawan"
+         "preface" : "It's always good to learn from those who have gone before, and stumbled. This article by Faisal lays out some of the same things we have seen SuperMegaCorp newbies stub their toes on."},
         {"module" : "aleksandarolic/npm"},
-        {"module" : "supermegacorp-nodejs-styleguide"},
+        {"module" : "supermegacorp-nodejs-styleguide"
+         "preface" : "It's essential that we adhere to good hygiene. This is how we write node.js code at our company. Learn it. Live it. Love it."},
         {"module" : "node-project-fix-sample"},
         {"module" : "node-post-assessment"},
         {"module" : "node-resources"},
