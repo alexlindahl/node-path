@@ -1,7 +1,7 @@
 <!--
-name: node-at-supermegacorp
+name: supermegacorp-nodejs-styleguide
 version : 0.0.1
-title : "Using Node.js the SuperMegaCorp Way"
+title : "SuperMegaCorp Node.js Style Guide"
 description: "This module will teach you the unique SuperMegaCorp best practices and and constraints for using Node.js our way."
 homepage : "https://raw.githubusercontent.com/felixge/node-style-guide/master/Readme.md"
 author : "Jeff Whatcott"
