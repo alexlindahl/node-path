@@ -5,7 +5,7 @@
     {
       "name" : "node-path",
       "title" : "Building JavaScript Backends with Node.js",
-      "description" : "We're getting in to Node.js big way here at SuperMegaCorp. This learning path is designed to teach us how to learn Node.js productively in our unique SuperMegaCorp environment.",
+      "description" : "We're getting in to Node.js big way here at SuperMegaCorp. This learning path is designed to teach us how to learn Node.js productively the SuperMegaCorp way. Expect to spend 10-15 hours completing this material.",
       "privacy" : "public",
       "socialBar" : true,
       "coverImage" : "https://raw.githubusercontent.com/sigma512/node-path/master/assets/gephi-map.jpg",
