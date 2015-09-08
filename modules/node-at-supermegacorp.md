@@ -12,18 +12,10 @@ freshnessDate : 2015-09-08
 
 <!-- @section-->
 # The SuperMegaCorp Node.js Style Guide
-This is a guide for writing consistent and aesthetically pleasing node.js code.
-It is inspired by what is popular within the community, and flavored with some
-personal opinions. It is drawn from [this one](https://github.com/felixge/node-style-guide/blob/master/Readme.md).
+This is a guide for writing consistent and aesthetically pleasing node.js code, the SuperMegaCorp way.
+It is inspired by what is popular within the node.js community flavored with some
+SuperMegaCorp opinions. It is drawn from [this one](https://github.com/felixge/node-style-guide/blob/master/Readme.md).
 
-There is a .jshintrc which enforces these rules as closely as possible. You can
-either use that and adjust it, or use
-[this script](https://gist.github.com/kentcdodds/11293570) to make your own.
-
-This guide was created by [Felix Geisendörfer](http://felixge.de/) and is
-licensed under the [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
-license. You are encouraged to fork this repository and make adjustments
-according to your preferences.
 
 <!-- @section-->
 ## 2 Spaces for indention
