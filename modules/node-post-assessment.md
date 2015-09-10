@@ -9,7 +9,7 @@ license : "Creative Commons Attribution 4.0 International"
 freshnessDate : 2015-06-29
 -->
 
-<!-- @section, "title" : "Test Your Node.js Fu"-->
+# Node.js Knowledge Post Assessment
 
 <img src="https://raw.githubusercontent.com/sigma512/node-path/master/assets/i-know-node-js.jpg" alt="I Know Node.JS" style="width:400px;height:400px;">
 

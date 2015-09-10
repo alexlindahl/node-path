@@ -9,7 +9,8 @@ license : "Creative Commons Attribution 4.0 International"
 freshnessDate : 2015-06-29
 -->
 
-<!-- @section, "title" : "Pre-Test Your Node.js Fu"-->
+
+# Node.js Knowledge Pre-Assessment
 
 Before we begin, let's assess your current level of Node.js Fu. Try your best to answer the following pre-assessment questions correctly.
 
