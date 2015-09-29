@@ -21,7 +21,7 @@
         {"module" : "FaisalAbid/node-js-padawan"},
         {"module" : "aleksandarolic/npm"},
         {"module" : "supermegacorp-nodejs-styleguide"},
-        {"module" : "node-project-fix-sample"},
+        {"module" : "node-capstone-project"},
         {"module" : "node-post-assessment"},
         {"module" : "node-resources"},
         {"page" : "./pages/live-long.md"}
@@ -40,7 +40,7 @@
       "olm" : "./modules/supermegacorp-nodejs-styleguide.md"
     },
     {
-      "olm" : "./modules/node-project-fix-sample.md"
+      "olm" : "./modules/node-capstone-project.md"
     },
     {
       "olm" : "./modules/node-post-assessment.md"
