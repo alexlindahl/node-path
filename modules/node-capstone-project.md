@@ -1,5 +1,5 @@
 <!--
-name: node-project-fix-sample
+name: node-capstone-project
 version : 0.0.1
 title : "Node.js Capstone Project"
 description: "This module allows you to apply your new Node.js skills to a complete project."
