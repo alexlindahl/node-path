@@ -20,7 +20,7 @@
         {"page" : "./pages/tips-and-tricks.md"},
         {"module" : "FaisalAbid/node-js-padawan"},
         {"module" : "aleksandarolic/npm"},
-        {"module" : "node-at-supermegacorp"},
+        {"module" : "supermegacorp-nodejs-styleguide"},
         {"module" : "node-project-fix-sample"},
         {"module" : "node-post-assessment"},
         {"module" : "node-resources"},
@@ -37,7 +37,7 @@
       "olm" : "./modules/node-video.md"
     },
     {
-      "olm" : "./modules/node-at-supermegacorp.md"
+      "olm" : "./modules/supermegacorp-nodejs-styleguide.md"
     },
     {
       "olm" : "./modules/node-project-fix-sample.md"
