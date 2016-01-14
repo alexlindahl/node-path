@@ -4,7 +4,7 @@
   "paths" : [
     {
       "name" : "node-path",
-      "title" : "Building Awesome JavaScript Backends with Node.js",
+      "title" : "Building Even More Awesome JavaScript Backends with Node.js",
       "description" : "We're getting in to Node.js big way here at SuperMegaCorp. This learning path is designed to teach us how to learn Node.js productively in our unique SuperMegaCorp environment.",
       "privacy" : "public",
       "coverImage" : "https://raw.githubusercontent.com/sigma512/node-path/master/assets/gephi-map.jpg",
